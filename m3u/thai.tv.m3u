@@ -34,3 +34,6 @@ http://103.233.195.147:8081/edgelive/0x_one/chunks.m3u8
 
 #EXTINF:-1,Now 26 HD
 http://202.60.199.230/hls/th_high.m3u8
+
+#EXTINF:-1,GMM 25 HD
+http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/chunklist_w1634738895_b1628000.m3u8
