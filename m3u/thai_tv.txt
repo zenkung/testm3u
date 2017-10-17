@@ -1,0 +1,83 @@
+﻿#EXTM3U
+
+#EXTINF:0, CH 3 HD
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:0, CH 5 
+http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
+
+#EXTINF:0, CH 7
+http://edge160.bugaboo.tv/liveedgech7_partner/_definst_/smil:auto.smil/chunklist_b664000_sleng.m3u8
+
+#EXTINF:0, CH 9 MCOT
+http://symc-cdn02.bkk02.violin.co.th:1935/liveedge/315176301208_600/chunklist_w1943123019.m3u8
+
+#EXTINF:0, CH 11 NBT
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308806374084_600/chunklist_w882700255.m3u8
+
+#EXTINF:0, Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:0, Thairath
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+
+#EXTINF:0, Nation TV
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308498221057_600/chunklist_w1751624082.m3u8
+
+#EXTINF:0, Voice TV
+http://symc-cdn05.bkk01.violin.co.th:1935/liveedge/308078198120_600/chunklist_w1249520565.m3u8
+
+#EXTINF:0, Spring News
+http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/chunklist_w1125576836_b3628000.m3u8
+
+#EXTINF:0, CH 3 SD
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/307783286397_600/chunklist_w969544235.m3u8
+
+#EXTINF:0, CH 3 Family
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/307796282399_600/chunklist_w602872794.m3u8
+
+#EXTINF:0, Workpoint TV
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277227873_600/chunklist_w998515145.m3u8
+
+#EXTINF:0, True4U
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308235425316_600/chunklist_w1877410338.m3u8
+
+#EXTINF:0, MONO 29 Thai
+https://59257875d9af2.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w2142426512.m3u8
+
+#EXTINF:0, MONO 29 Soundtrack
+https://59257875d9af2.streamlock.net/MONO29_HLS_1080P/mono29hls_1080EN.stream/chunklist_w197547014.m3u8
+
+#EXTINF:0, CH 8
+http://111.223.51.3/desktop/ch8_720p/chunklist_w1211660623.m3u8
+
+#EXTINF:0, PPTV
+http://symc-cdn05.bkk01.violin.co.th:1935/liveedge/315182321983_600/chunklist_w318515655.m3u8
+
+#EXTINF:0, Now 26 Thai
+http://202.60.199.230/hls/th_mid.m3u8
+
+#EXTINF:0, Now 26 Soundtrack
+http://202.60.199.230/hls/en_high.m3u8
+
+#EXTINF:0, CH 2
+http://stream.rs.co.th/ch2-hi/index.m3u8
+
+#EXTINF:0, You Channel
+http://stream.rs.co.th/you-hi/index.m3u8
+
+#EXTINF:0, SabaideeTV
+http://stream.rs.co.th/sbd-hi/index.m3u8
+
+#EXTINF:0, Cartoon Club
+http://146.88.56.38:1935/liveedge/292277442241_600/chunklist_w1080278528.m3u8?key=9336822xlkosdfhkjp
+
+#EXTINF:0, ONE 31
+http://103.233.195.147:8081/edgelive/0x_one/chunks.m3u8
+
+#EXTINF:0, Health Plus
+http://symc-cdn05.bkk01.violin.co.th:1935/liveedge/307626143200_600/chunklist_w1447046844.m3u8
+
+#EXTINF:0, News 1
+http://203.150.95.179/stream/news1_hi.m3u8
+
