@@ -1,96 +1,377 @@
 #EXTM3U
-#EXTINF:-1,BT Sport 1
-http://62.6.220.50:5000/play/a016
-#EXTINF:-1,BT Sport 2
-http://62.6.220.50:5000/play/a01n
-#EXTINF:-1,BT Sport 3
-http://62.6.220.50:5000/play/a017
-#EXTINF:-1,BT Sport ESPN
-http://62.6.220.50:5000/play/a00z
-#EXTINF:-1,Sky Sports News
-http://62.6.220.50:5000/play/a01g
-#EXTINF:-1,Comedy Central
-http://62.6.220.50:5000/play/a01r
-#EXTINF:-1,At The Races
-http://62.6.220.50:5000/play/a01i
-#EXTINF:-1,Sky Family
-http://62.6.220.50:5000/play/a00c
-#EXTINF:-1,FOX
-http://62.6.220.50:5000/play/a01o
-#EXTINF:-1,Sky Drama & Romance
-http://62.6.220.50:5000/play/a00b
-#EXTINF:-1,Sky Hits
-http://62.6.220.50:5000/play/a01p
-#EXTINF:-1,Nat Geo WILD
-http://62.6.220.50:5000/play/a01j
-#EXTINF:-1,Eurosport 1
-http://62.6.220.50:5000/play/a01e
-#EXTINF:-1,Eurosport 2
-http://62.6.220.50:5000/play/a01f
-#EXTINF:-1,Sky Select
-http://62.6.220.50:5000/play/a00n
-#EXTINF:-1,Sky Fi
-http://62.6.220.50:5000/play/a00j
-#EXTINF:-1,Sky Action&Adventure
-http://62.6.220.50:5000/play/a004
-#EXTINF:-1,Sky Disney
-http://62.6.220.50:5000/play/a005
-#EXTINF:-1,Sky Comedy
-http://62.6.220.50:5000/play/a00m
-#EXTINF:-1,Sky Premiere
-http://62.6.220.50:5000/play/a007
-#EXTINF:-1,Sky Thriller
-http://62.6.220.50:5000/play/a00k
-#EXTINF:-1,Sky Greats
-http://62.6.220.50:5000/play/a00l
-#EXTINF:-1,MUTV
-http://62.6.220.50:5000/play/a01l
-#EXTINF:-1,National Geographic
-http://62.6.220.50:5000/play/a01k
-#EXTINF:-1,Nicktoons
-http://62.6.220.50:8000/play/a04h
-#EXTINF:-1,Sky Sports Mix HD
-http://62.6.220.50:8000/play/a034
-#EXTINF:-1,Cartoon Network
-http://62.6.220.50:8000/play/a03v
-#EXTINF:-1,VH1
-http://62.6.220.50:8000/play/a05f
-#EXTINF:-1,Sky1
-http://62.6.220.50:8000/play/a03s
-#EXTINF:-1,CNN International
-http://62.6.220.50:8000/play/a03t
-#EXTINF:-1,Nickelodeon
-http://62.6.220.50:8000/play/a04i
-#EXTINF:-1,Boomerang
-http://62.6.220.50:8000/play/a03p
-#EXTINF:-1,Sky Sports F1 HD
-http://62.6.220.50:8000/play/a03e
-#EXTINF:-1,Sky Sports Action HD
-http://62.6.220.50:8000/play/a03d
-#EXTINF:-1,Disney Junior
-http://62.6.220.50:8000/play/a048
-#EXTINF:-1,Nick Junior
-http://62.6.220.50:8000/play/a04e
-#EXTINF:-1,Sky Sports Cricket HD
-http://62.6.220.50:8000/play/a03n
-#EXTINF:-1,Sky Sports Golf HD
-http://62.6.220.50:8000/play/a04j
-#EXTINF:-1,Sky Living
-http://62.6.220.50:8000/play/a03w
-#EXTINF:-1,Sky Sports FootballHD
-http://62.6.220.50:8000/play/a03a
-#EXTINF:-1,Sky Sports Arena HD
-http://62.6.220.50:8000/play/a035
-#EXTINF:-1,VIVA
-http://62.6.220.50:8000/play/a05g
-#EXTINF:-1,Film4
-http://62.6.220.50:8000/play/a03r
-#EXTINF:-1,Disney Channel
-http://62.6.220.50:8000/play/a047
-#EXTINF:-1,Disney XD
-http://62.6.220.50:8000/play/a044
-
-
-
-
-
+#EXTINF:-1,UK : SKY NET SPORTS 1
+http://51.255.77.23:7777/live/anouar00/anouar123456/12286.ts
+#EXTINF:-1,UK : SKY NET SPORTS 2
+http://51.255.77.23:7777/live/anouar00/anouar123456/12287.ts
+#EXTINF:-1,UK : SKY NET SPORTS 3
+http://51.255.77.23:7777/live/anouar00/anouar123456/12288.ts
+#EXTINF:-1,UK : SKY NET SPORTS 4
+http://51.255.77.23:7777/live/anouar00/anouar123456/12289.ts
+#EXTINF:-1,UK : SKY NET SPORTS 5
+http://51.255.77.23:7777/live/anouar00/anouar123456/12290.ts
+#EXTINF:-1,UK : SKY NET SPORTS 6
+http://51.255.77.23:7777/live/anouar00/anouar123456/12291.ts
+#EXTINF:-1,UK : 5 STAR
+http://51.255.77.23:7777/live/anouar00/anouar123456/11874.ts
+#EXTINF:-1,UK : 5 USA
+http://51.255.77.23:7777/live/anouar00/anouar123456/11988.ts
+#EXTINF:-1,UK : AAJTAK
+http://51.255.77.23:7777/live/anouar00/anouar123456/11920.ts
+#EXTINF:-1,UK : AASTHA
+http://51.255.77.23:7777/live/anouar00/anouar123456/11919.ts
+#EXTINF:-1,UK : ABN TV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11990.ts
+#EXTINF:-1,UK : ABP NEWS
+http://51.255.77.23:7777/live/anouar00/anouar123456/12049.ts
+#EXTINF:-1,UK : AITINT
+http://51.255.77.23:7777/live/anouar00/anouar123456/11993.ts
+#EXTINF:-1,UK : AKAAL CHANNEL
+http://51.255.77.23:7777/live/anouar00/anouar123456/12045.ts
+#EXTINF:-1,UK : ALIBI
+http://51.255.77.23:7777/live/anouar00/anouar123456/11897.ts
+#EXTINF:-1,UK : ALJAZEERA ENGLISH
+http://51.255.77.23:7777/live/anouar00/anouar123456/11973.ts
+#EXTINF:-1,UK : AND TV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11878.ts
+#EXTINF:-1,UK : ANIMAL PLANET
+http://51.255.77.23:7777/live/anouar00/anouar123456/12012.ts
+#EXTINF:-1,UK : B TSPORT 1
+http://51.255.77.23:7777/live/anouar00/anouar123456/12041.ts
+#EXTINF:-1,UK : BABY TV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11938.ts
+#EXTINF:-1,UK : BANGLA
+http://51.255.77.23:7777/live/anouar00/anouar123456/12010.ts
+#EXTINF:-1,UK : BBC FOUR
+http://51.255.77.23:7777/live/anouar00/anouar123456/12031.ts
+#EXTINF:-1,UK : BBC NEWS
+http://51.255.77.23:7777/live/anouar00/anouar123456/12018.ts
+#EXTINF:-1,UK : BBC PARLIAMENT
+http://51.255.77.23:7777/live/anouar00/anouar123456/11868.ts
+#EXTINF:-1,UK : BBC TWO
+http://51.255.77.23:7777/live/anouar00/anouar123456/11998.ts
+#EXTINF:-1,UK : BEN
+http://51.255.77.23:7777/live/anouar00/anouar123456/11979.ts
+#EXTINF:-1,UK : BLOOMBERG
+http://51.255.77.23:7777/live/anouar00/anouar123456/12037.ts
+#EXTINF:-1,UK : BOOMERANG
+http://51.255.77.23:7777/live/anouar00/anouar123456/11972.ts
+#EXTINF:-1,UK : BOXNATION
+http://51.255.77.23:7777/live/anouar00/anouar123456/11875.ts
+#EXTINF:-1,UK : BRITASIA
+http://51.255.77.23:7777/live/anouar00/anouar123456/11966.ts
+#EXTINF:-1,UK : BRITISHMUSLIM
+http://51.255.77.23:7777/live/anouar00/anouar123456/11918.ts
+#EXTINF:-1,UK : BT SPORT 2
+http://51.255.77.23:7777/live/anouar00/anouar123456/11991.ts
+#EXTINF:-1,UK : BT SPORT 3
+http://51.255.77.23:7777/live/anouar00/anouar123456/11873.ts
+#EXTINF:-1,UK : CARTOON NETWORK
+http://51.255.77.23:7777/live/anouar00/anouar123456/11859.ts
+#EXTINF:-1,UK : CARTOONN ETWORK
+http://51.255.77.23:7777/live/anouar00/anouar123456/11947.ts
+#EXTINF:-1,UK : CBBC
+http://51.255.77.23:7777/live/anouar00/anouar123456/11866.ts
+#EXTINF:-1,UK : CBEEBIES
+http://51.255.77.23:7777/live/anouar00/anouar123456/11900.ts
+#EXTINF:-1,UK : CBS ACTION
+http://51.255.77.23:7777/live/anouar00/anouar123456/12000.ts
+#EXTINF:-1,UK : CBS DRAMA
+http://51.255.77.23:7777/live/anouar00/anouar123456/11931.ts
+#EXTINF:-1,UK : CBS REALITY
+http://51.255.77.23:7777/live/anouar00/anouar123456/11889.ts
+#EXTINF:-1,UK : CHALLENGE
+http://51.255.77.23:7777/live/anouar00/anouar123456/11952.ts
+#EXTINF:-1,UK : CHANNEL 4
+http://51.255.77.23:7777/live/anouar00/anouar123456/11995.ts
+#EXTINF:-1,UK : CHANNEL 5
+http://51.255.77.23:7777/live/anouar00/anouar123456/11994.ts
+#EXTINF:-1,UK : CHANNELAKA
+http://51.255.77.23:7777/live/anouar00/anouar123456/11933.ts
+#EXTINF:-1,UK : CHANNELS TV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11980.ts
+#EXTINF:-1,UK : CHELSEA
+http://51.255.77.23:7777/live/anouar00/anouar123456/11922.ts
+#EXTINF:-1,UK : CHELSEA TV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11924.ts
+#EXTINF:-1,UK : CNBC
+http://51.255.77.23:7777/live/anouar00/anouar123456/11928.ts
+#EXTINF:-1,UK : CNN
+http://51.255.77.23:7777/live/anouar00/anouar123456/11949.ts
+#EXTINF:-1,UK : COLORS
+http://51.255.77.23:7777/live/anouar00/anouar123456/11987.ts
+#EXTINF:-1,UK : DAVE
+http://51.255.77.23:7777/live/anouar00/anouar123456/12044.ts
+#EXTINF:-1,UK : DISCOVERY
+http://51.255.77.23:7777/live/anouar00/anouar123456/11893.ts
+#EXTINF:-1,UK : DISCOVERY HISTORY
+http://51.255.77.23:7777/live/anouar00/anouar123456/12019.ts
+#EXTINF:-1,UK : DISCOVERY SCIENCE
+http://51.255.77.23:7777/live/anouar00/anouar123456/12001.ts
+#EXTINF:-1,UK : DISCTURBO
+http://51.255.77.23:7777/live/anouar00/anouar123456/11978.ts
+#EXTINF:-1,UK : DISNEY CHANNEL
+http://51.255.77.23:7777/live/anouar00/anouar123456/11886.ts
+#EXTINF:-1,UK : DISNEY CHANNEL PLUS
+http://51.255.77.23:7777/live/anouar00/anouar123456/11856.ts
+#EXTINF:-1,UK : DISNEY JUNIOR
+http://51.255.77.23:7777/live/anouar00/anouar123456/11923.ts
+#EXTINF:-1,UK : DISNEY XD
+http://51.255.77.23:7777/live/anouar00/anouar123456/12025.ts
+#EXTINF:-1,UK : DRAMA
+http://51.255.77.23:7777/live/anouar00/anouar123456/12006.ts
+#EXTINF:-1,UK : DUNYA NEWS
+http://51.255.77.23:7777/live/anouar00/anouar123456/11999.ts
+#EXTINF:-1,UK : E
+http://51.255.77.23:7777/live/anouar00/anouar123456/11914.ts
+#EXTINF:-1,UK : E4
+http://51.255.77.23:7777/live/anouar00/anouar123456/11956.ts
+#EXTINF:-1,UK : EDEN
+http://51.255.77.23:7777/live/anouar00/anouar123456/11896.ts
+#EXTINF:-1,UK : EIR SPORT 1
+http://51.255.77.23:7777/live/anouar00/anouar123456/12032.ts
+#EXTINF:-1,UK : EIR SPORT 2
+http://51.255.77.23:7777/live/anouar00/anouar123456/11951.ts
+#EXTINF:-1,UK : ESPN
+http://51.255.77.23:7777/live/anouar00/anouar123456/11997.ts
+#EXTINF:-1,UK : FILM 4
+http://51.255.77.23:7777/live/anouar00/anouar123456/11969.ts
+#EXTINF:-1,UK : FOOD NETWORK
+http://51.255.77.23:7777/live/anouar00/anouar123456/12009.ts
+#EXTINF:-1,UK : FOX
+http://51.255.77.23:7777/live/anouar00/anouar123456/11906.ts
+#EXTINF:-1,UK : GEO NEWS
+http://51.255.77.23:7777/live/anouar00/anouar123456/12033.ts
+#EXTINF:-1,UK : GEOTEZ
+http://51.255.77.23:7777/live/anouar00/anouar123456/11895.ts
+#EXTINF:-1,UK : GEOTV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11959.ts
+#EXTINF:-1,UK : GOLD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11927.ts
+#EXTINF:-1,UK : GOOD FOOD
+http://51.255.77.23:7777/live/anouar00/anouar123456/12047.ts
+#EXTINF:-1,UK : HEART
+http://51.255.77.23:7777/live/anouar00/anouar123456/11960.ts
+#EXTINF:-1,UK : HOME
+http://51.255.77.23:7777/live/anouar00/anouar123456/12030.ts
+#EXTINF:-1,UK : HOMEANDHEALTH
+http://51.255.77.23:7777/live/anouar00/anouar123456/11955.ts
+#EXTINF:-1,UK : HORROR CHANNEL
+http://51.255.77.23:7777/live/anouar00/anouar123456/12028.ts
+#EXTINF:-1,UK : HUMEUROPE
+http://51.255.77.23:7777/live/anouar00/anouar123456/11899.ts
+#EXTINF:-1,UK : IDEAL EXTRA
+http://51.255.77.23:7777/live/anouar00/anouar123456/11996.ts
+#EXTINF:-1,UK : IDEAL WORLD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11879.ts
+#EXTINF:-1,UK : INVESTIGATION DISCOVERY
+http://51.255.77.23:7777/live/anouar00/anouar123456/11936.ts
+#EXTINF:-1,UK : IQRA TV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11974.ts
+#EXTINF:-1,UK : ISLAM CHANNEL
+http://51.255.77.23:7777/live/anouar00/anouar123456/11912.ts
+#EXTINF:-1,UK : ISLAM CHURDU
+http://51.255.77.23:7777/live/anouar00/anouar123456/11915.ts
+#EXTINF:-1,UK : ITV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11910.ts
+#EXTINF:-1,UK : ITV 3
+http://51.255.77.23:7777/live/anouar00/anouar123456/12011.ts
+#EXTINF:-1,UK : ITV 4
+http://51.255.77.23:7777/live/anouar00/anouar123456/11880.ts
+#EXTINF:-1,UK : ITV PLUS1
+http://51.255.77.23:7777/live/anouar00/anouar123456/12034.ts
+#EXTINF:-1,UK : ITV2
+http://51.255.77.23:7777/live/anouar00/anouar123456/11958.ts
+#EXTINF:-1,UK : ITVBE
+http://51.255.77.23:7777/live/anouar00/anouar123456/11948.ts
+#EXTINF:-1,UK : LIVERPOOL
+http://51.255.77.23:7777/live/anouar00/anouar123456/12026.ts
+#EXTINF:-1,UK : LOVE WORLD
+http://51.255.77.23:7777/live/anouar00/anouar123456/12015.ts
+#EXTINF:-1,UK : MADAN CHANNEL
+http://51.255.77.23:7777/live/anouar00/anouar123456/11967.ts
+#EXTINF:-1,UK : MATV NATIONAL
+http://51.255.77.23:7777/live/anouar00/anouar123456/11913.ts
+#EXTINF:-1,UK : MOVIES 4 MEN
+http://51.255.77.23:7777/live/anouar00/anouar123456/11911.ts
+#EXTINF:-1,UK : MTA MUSLIM TV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11930.ts
+#EXTINF:-1,UK : MTV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11946.ts
+#EXTINF:-1,UK : MTV DANCE
+http://51.255.77.23:7777/live/anouar00/anouar123456/12029.ts
+#EXTINF:-1,UK : MTV HITS
+http://51.255.77.23:7777/live/anouar00/anouar123456/11932.ts
+#EXTINF:-1,UK : MTVR OCKS
+http://51.255.77.23:7777/live/anouar00/anouar123456/11989.ts
+#EXTINF:-1,UK : MUTV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11862.ts
+#EXTINF:-1,UK : NATIONAL GEO GRAPHIC1
+http://51.255.77.23:7777/live/anouar00/anouar123456/11860.ts
+#EXTINF:-1,UK : NATIONAL GEOGRAPHIC WILD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11926.ts
+#EXTINF:-1,UK : ND TV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11976.ts
+#EXTINF:-1,UK : NICK
+http://51.255.77.23:7777/live/anouar00/anouar123456/12003.ts
+#EXTINF:-1,UK : NICKELODEON
+http://51.255.77.23:7777/live/anouar00/anouar123456/11863.ts
+#EXTINF:-1,UK : NICKJR
+http://51.255.77.23:7777/live/anouar00/anouar123456/11941.ts
+#EXTINF:-1,UK : NICKTOON
+http://51.255.77.23:7777/live/anouar00/anouar123456/12050.ts
+#EXTINF:-1,UK : NOLLYWOOD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11890.ts
+#EXTINF:-1,UK : NOOR TV
+http://51.255.77.23:7777/live/anouar00/anouar123456/12014.ts
+#EXTINF:-1,UK : PEACE TV
+http://51.255.77.23:7777/live/anouar00/anouar123456/12004.ts
+#EXTINF:-1,UK : PEACETVURDU
+http://51.255.77.23:7777/live/anouar00/anouar123456/11975.ts
+#EXTINF:-1,UK : PREMIERSPORTS
+http://51.255.77.23:7777/live/anouar00/anouar123456/11876.ts
+#EXTINF:-1,UK : PRESS TV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11986.ts
+#EXTINF:-1,UK : PTCPUNJABI
+http://51.255.77.23:7777/live/anouar00/anouar123456/12039.ts
+#EXTINF:-1,UK : PTV GLOBAL
+http://51.255.77.23:7777/live/anouar00/anouar123456/11894.ts
+#EXTINF:-1,UK : PTV PRIME
+http://51.255.77.23:7777/live/anouar00/anouar123456/12027.ts
+#EXTINF:-1,UK : RACING
+http://51.255.77.23:7777/live/anouar00/anouar123456/12046.ts
+#EXTINF:-1,UK : REALLY
+http://51.255.77.23:7777/live/anouar00/anouar123456/11872.ts
+#EXTINF:-1,UK : RISHTEY
+http://51.255.77.23:7777/live/anouar00/anouar123456/12007.ts
+#EXTINF:-1,UK : ROK
+http://51.255.77.23:7777/live/anouar00/anouar123456/11929.ts
+#EXTINF:-1,UK : RTEONE
+http://51.255.77.23:7777/live/anouar00/anouar123456/12042.ts
+#EXTINF:-1,UK : RTETWO
+http://51.255.77.23:7777/live/anouar00/anouar123456/11903.ts
+#EXTINF:-1,UK : SAMAA
+http://51.255.77.23:7777/live/anouar00/anouar123456/11965.ts
+#EXTINF:-1,UK : SANGAT
+http://51.255.77.23:7777/live/anouar00/anouar123456/12008.ts
+#EXTINF:-1,UK : SIKH CHANNEL
+http://51.255.77.23:7777/live/anouar00/anouar123456/12017.ts
+#EXTINF:-1,UK : SKY ARTS
+http://51.255.77.23:7777/live/anouar00/anouar123456/11984.ts
+#EXTINF:-1,UK : SKY ATLANTIC
+http://51.255.77.23:7777/live/anouar00/anouar123456/11982.ts
+#EXTINF:-1,UK : SKY ATLANTIC HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11904.ts
+#EXTINF:-1,UK : SKY CINEMA ACTION HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/12036.ts
+#EXTINF:-1,UK : SKY CINEMA CRIME
+http://51.255.77.23:7777/live/anouar00/anouar123456/12022.ts
+#EXTINF:-1,UK : SKY CINEMA CRIME HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11902.ts
+#EXTINF:-1,UK : SKY CINEMA DISNEY
+http://51.255.77.23:7777/live/anouar00/anouar123456/12002.ts
+#EXTINF:-1,UK : SKY CINEMA DISNEY HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11855.ts
+#EXTINF:-1,UK : SKY CINEMA FAMILY
+http://51.255.77.23:7777/live/anouar00/anouar123456/11940.ts
+#EXTINF:-1,UK : SKY CINEMA FAMILY HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11962.ts
+#EXTINF:-1,UK : SKY CINEMA PREMIERE
+http://51.255.77.23:7777/live/anouar00/anouar123456/11983.ts
+#EXTINF:-1,UK : SKY CINEMA PREMIERE HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11908.ts
+#EXTINF:-1,UK : SKY CINEMA SCIFI
+http://51.255.77.23:7777/live/anouar00/anouar123456/11864.ts
+#EXTINF:-1,UK : SKY CINEMAACTION
+http://51.255.77.23:7777/live/anouar00/anouar123456/11861.ts
+#EXTINF:-1,UK : SKY CINEMASCIFI HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11865.ts
+#EXTINF:-1,UK : SKY COMEDY
+http://51.255.77.23:7777/live/anouar00/anouar123456/11883.ts
+#EXTINF:-1,UK : SKY COMEDY HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11870.ts
+#EXTINF:-1,UK : SKY F 1 HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11858.ts
+#EXTINF:-1,UK : SKY F1
+http://51.255.77.23:7777/live/anouar00/anouar123456/11963.ts
+#EXTINF:-1,UK : SKY GREATS
+http://51.255.77.23:7777/live/anouar00/anouar123456/12048.ts
+#EXTINF:-1,UK : SKY GREATS HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11871.ts
+#EXTINF:-1,UK : SKY LIVING
+http://51.255.77.23:7777/live/anouar00/anouar123456/11867.ts
+#EXTINF:-1,UK : SKY LIVING HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/12038.ts
+#EXTINF:-1,UK : SKY NEWS
+http://51.255.77.23:7777/live/anouar00/anouar123456/11877.ts
+#EXTINF:-1,UK : SKY SPORT FOOTBALL
+http://51.255.77.23:7777/live/anouar00/anouar123456/11887.ts
+#EXTINF:-1,UK : SKY SPORTARENA
+http://51.255.77.23:7777/live/anouar00/anouar123456/12043.ts
+#EXTINF:-1,UK : SKY SPORTS 1 HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11981.ts
+#EXTINF:-1,UK : SKY SPORTS 2 HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/12040.ts
+#EXTINF:-1,UK : SKY SPORTS 3 HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11961.ts
+#EXTINF:-1,UK : SKY SPORTS 3HD VIP
+http://51.255.77.23:7777/live/anouar00/anouar123456/11939.ts
+#EXTINF:-1,UK : SKY SPORTS 4 HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11907.ts
+#EXTINF:-1,UK : SKY SPORTS 5 HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11937.ts
+#EXTINF:-1,UK : SKY SPORTS NETWORLD HD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11884.ts
+#EXTINF:-1,UK : SKY SPORTS NEWS
+http://51.255.77.23:7777/live/anouar00/anouar123456/12024.ts
+#EXTINF:-1,UK : SKY SPORTS5 HD VIP
+http://51.255.77.23:7777/live/anouar00/anouar123456/11857.ts
+#EXTINF:-1,UK : SONIC NICKELODEON
+http://51.255.77.23:7777/live/anouar00/anouar123456/11985.ts
+#EXTINF:-1,UK : SONY CHANNEL
+http://51.255.77.23:7777/live/anouar00/anouar123456/11970.ts
+#EXTINF:-1,UK : SONY MAX
+http://51.255.77.23:7777/live/anouar00/anouar123456/11901.ts
+#EXTINF:-1,UK : SONY MOVIES
+http://51.255.77.23:7777/live/anouar00/anouar123456/12016.ts
+#EXTINF:-1,UK : SONY SAB
+http://51.255.77.23:7777/live/anouar00/anouar123456/11869.ts
+#EXTINF:-1,UK : STAR GOLD
+http://51.255.77.23:7777/live/anouar00/anouar123456/11891.ts
+#EXTINF:-1,UK : STAR LIFEOK
+http://51.255.77.23:7777/live/anouar00/anouar123456/11935.ts
+#EXTINF:-1,UK : STAR PLUS
+http://51.255.77.23:7777/live/anouar00/anouar123456/11898.ts
+#EXTINF:-1,UK : STAR UTSAV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11968.ts
+#EXTINF:-1,UK : STV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11992.ts
+#EXTINF:-1,UK : SYFY
+http://51.255.77.23:7777/live/anouar00/anouar123456/11950.ts
+#EXTINF:-1,UK : TAKBEER
+http://51.255.77.23:7777/live/anouar00/anouar123456/11921.ts
+#EXTINF:-1,UK : TIMESNOW
+http://51.255.77.23:7777/live/anouar00/anouar123456/11881.ts
+#EXTINF:-1,UK : TINYPOP
+http://51.255.77.23:7777/live/anouar00/anouar123456/11885.ts
+#EXTINF:-1,UK : TLC
+http://51.255.77.23:7777/live/anouar00/anouar123456/12021.ts
+#EXTINF:-1,UK : TV 99
+http://51.255.77.23:7777/live/anouar00/anouar123456/11916.ts
+#EXTINF:-1,UK : TVC NEWS
+http://51.255.77.23:7777/live/anouar00/anouar123456/11892.ts
+#EXTINF:-1,UK : UMMAH CHANNEL
+http://51.255.77.23:7777/live/anouar00/anouar123456/12020.ts
+#EXTINF:-1,UK : UNIVERSAL
+http://51.255.77.23:7777/live/anouar00/anouar123456/12051.ts
+#EXTINF:-1,UK : UTV
+http://51.255.77.23:7777/live/anouar00/anouar123456/11971.ts
+#EXTINF:-1,UK : VENUS
+http://51.255.77.23:7777/live/anouar00/anouar123456/11917.ts
+#EXTINF:-1,UK : VH 1
+http://51.255.77.23:7777/live/anouar00/anouar123456/11953.ts
+#EXTINF:-1,UK : VIVA
+http://51.255.77.23:7777/live/anouar00/anouar123456/12035.ts
+#EXTINF:-1,UK : VOX AFRICA
+http://51.255.77.23:7777/live/anouar00/anouar123456/11957.ts
+#EXTINF:-1,UK : WWE NETWORK
+http://51.255.77.23:7777/live/anouar00/anouar123456/11925.ts
